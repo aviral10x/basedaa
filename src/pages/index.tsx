@@ -41,7 +41,7 @@ export default function Home() {
     //https://docs.particle.network/getting-started/dashboard
     projectId: "9907c5b3-a301-438e-bd84-2de8c100a335",
     clientKey: "cJEtubDg5Q2PYJadqwaClRo2dLaYtpwWFN1IOniQ",
-    appId: "7fae25d0-57a1-42c8-9569-79b045ddb48c",
+    appId: "cf69b4e3-ba0d-4a22-a471-2dbbf36e0d5f",
     wallet: {
       displayWalletEntry: true,
       defaultWalletEntryPosition: ParticleAuthModule.WalletEntryPosition.BR,
